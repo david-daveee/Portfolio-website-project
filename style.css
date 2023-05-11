@@ -284,6 +284,9 @@ h2 {
   font-size: 30px;
   margin-top: 15px;
 }
+.linkedin > p > a{
+  color: white;
+}
 .linkedin {
   border: 2px solid white;
   border-radius: 20px;
@@ -294,7 +297,9 @@ h2 {
   font-size: 30px;
   margin-top: 15px;
 }
-
+.github > p > a{
+  color: white;
+}
 .github {
   margin-top: 20px;
   border: 2px solid white;
